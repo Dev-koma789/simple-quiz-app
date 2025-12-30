@@ -1,0 +1,193 @@
+[
+  {
+    "question": "『進撃の巨人』で人類を守るために築かれていたものは何？",
+    "choices": ["城", "壁", "要塞", "結界"],
+    "answer": 1,
+    "difficulty": "easy"
+  },
+  {
+    "question": "『鬼滅の刃』で主人公・竈門炭治郎の妹の名前は？",
+    "choices": ["しのぶ", "ねずこ", "みつり", "かなえ"],
+    "answer": 1,
+    "difficulty": "easy"
+  },
+  {
+    "question": "『ドラえもん』でドラえもんが未来から来た目的は何？",
+    "choices": [
+      "世界を救うため",
+      "のび太を助けるため",
+      "冒険するため",
+      "研究のため"
+    ],
+    "answer": 1,
+    "difficulty": "easy"
+  },
+  {
+    "question": "『名探偵コナン』でコナンが飲まされた薬の名前は？",
+    "choices": ["APTX4869", "CX-01", "RX-78", "LCL"],
+    "answer": 0,
+    "difficulty": "easy"
+  },
+  {
+    "question": "『ONE PIECE』でルフィが食べた悪魔の実はどれ？",
+    "choices": ["メラメラの実", "ゴムゴムの実", "バラバラの実", "ヒトヒトの実"],
+    "answer": 1,
+    "difficulty": "easy"
+  },
+  {
+    "question": "『ポケットモンスター』でサトシの最初のパートナーはどれ？",
+    "choices": ["ヒトカゲ", "フシギダネ", "ゼニガメ", "ピカチュウ"],
+    "answer": 3,
+    "difficulty": "easy"
+  },
+  {
+    "question": "『新世紀エヴァンゲリオン』で主人公・碇シンジが乗る機体はどれ？",
+    "choices": ["初号機", "弐号機", "零号機", "量産機"],
+    "answer": 0,
+    "difficulty": "easy"
+  },
+  {
+    "question": "『となりのトトロ』で姉妹が引っ越してきた場所はどんな所？",
+    "choices": ["都会", "海辺", "田舎", "山頂"],
+    "answer": 2,
+    "difficulty": "easy"
+  },
+  {
+    "question": "『SPY×FAMILY』でフォージャー家が隠している共通の秘密は何？",
+    "choices": [
+      "全員宇宙人",
+      "全員スパイ",
+      "正体を隠している",
+      "血がつながっていない"
+    ],
+    "answer": 2,
+    "difficulty": "easy"
+  },
+  {
+    "question": "『鋼の錬金術師』のアニメで、兄弟が求めているものは何？",
+    "choices": ["不老不死", "賢者の石", "世界征服", "魔法の力"],
+    "answer": 1,
+    "difficulty": "easy"
+  },
+
+  {
+    "question": "『ドラゴンボール』で孫悟空の出身種族は何？",
+    "choices": ["地球人", "サイヤ人", "ナメック星人", "宇宙人"],
+    "answer": 1,
+    "difficulty": "easy"
+  },
+  {
+    "question": "『鬼滅の刃』で柱と呼ばれる剣士は何人いる？",
+    "choices": ["5人", "7人", "9人", "12人"],
+    "answer": 2,
+    "difficulty": "easy"
+  },
+  {
+    "question": "『NARUTO』でナルトが夢として目指している役職は何？",
+    "choices": ["火影", "風影", "水影", "雷影"],
+    "answer": 0,
+    "difficulty": "easy"
+  },
+  {
+    "question": "『名探偵コナン』で江戸川コナンの正体は誰？",
+    "choices": ["毛利小五郎", "服部平次", "工藤新一", "怪盗キッド"],
+    "answer": 2,
+    "difficulty": "easy"
+  },
+  {
+    "question": "『となりのトトロ』に登場する不思議な生き物の名前は？",
+    "choices": ["ポニョ", "トトロ", "ネコバス", "モロ"],
+    "answer": 1,
+    "difficulty": "easy"
+  },
+  {
+    "question": "『ワンパンマン』で主人公サイタマの特徴はどれ？",
+    "choices": ["剣が強い", "魔法が使える", "一撃で敵を倒す", "巨大化する"],
+    "answer": 2,
+    "difficulty": "easy"
+  },
+  {
+    "question": "『ポケットモンスター』で最初の地方はどこ？",
+    "choices": ["ジョウト地方", "カントー地方", "ホウエン地方", "シンオウ地方"],
+    "answer": 1,
+    "difficulty": "easy"
+  },
+  {
+    "question": "『新世紀エヴァンゲリオン』で敵として現れる存在は何と呼ばれる？",
+    "choices": ["巨人", "使徒", "悪魔", "侵略者"],
+    "answer": 1,
+    "difficulty": "easy"
+  },
+  {
+    "question": "『SPY×FAMILY』でアーニャが持つ能力は何？",
+    "choices": ["未来予知", "心を読む力", "透明になる力", "怪力"],
+    "answer": 1,
+    "difficulty": "easy"
+  },
+  {
+    "question": "『鋼の錬金術師』でエドとアルの兄弟が失ったものは何？",
+    "choices": ["記憶", "体の一部", "家族", "国"],
+    "answer": 1,
+    "difficulty": "easy"
+  },
+  {
+    "question": "『僕のヒーローアカデミア』の世界で人々が持つ能力を何と呼ぶ？",
+    "choices": ["スタンド", "念", "個性", "魔法"],
+    "answer": 2,
+    "difficulty": "easy"
+  },
+  {
+    "question": "『呪術廻戦』で呪術師たちが戦う相手は何？",
+    "choices": ["怪獣", "呪霊", "悪魔", "妖精"],
+    "answer": 1,
+    "difficulty": "easy"
+  },
+  {
+    "question": "『デスノート』で死神リュークが好きな食べ物は何？",
+    "choices": ["りんご", "バナナ", "チョコレート", "パン"],
+    "answer": 0,
+    "difficulty": "easy"
+  },
+  {
+    "question": "『銀魂』の主人公・坂田銀時の通称は何？",
+    "choices": ["白夜叉", "銀の侍", "万事屋", "最強侍"],
+    "answer": 0,
+    "difficulty": "easy"
+  },
+  {
+    "question": "『BLEACH』で主人公・黒崎一護が最初に得た力は何？",
+    "choices": ["虚の力", "滅却師の力", "死神の力", "完現術"],
+    "answer": 2,
+    "difficulty": "easy"
+  },
+  {
+    "question": "『キャプテン翼』の主人公・大空翼が目指す舞台はどこ？",
+    "choices": ["日本代表", "ヨーロッパ", "ワールドカップ", "Jリーグ"],
+    "answer": 2,
+    "difficulty": "easy"
+  },
+  {
+    "question": "『ラピュタ』に登場する飛行石の色は何色？",
+    "choices": ["赤", "青", "緑", "白"],
+    "answer": 1,
+    "difficulty": "easy"
+  },
+  {
+    "question": "『魔女の宅急便』で主人公キキの職業は何？",
+    "choices": ["魔法使い", "宅配屋", "占い師", "パン屋"],
+    "answer": 1,
+    "difficulty": "easy"
+  },
+  {
+    "question": "『涼宮ハルヒの憂鬱』でハルヒが作った部活の名前は何？",
+    "choices": ["SOS団", "文芸部", "超常研究会", "不思議研究会"],
+    "answer": 0,
+    "difficulty": "easy"
+  },
+  {
+    "question": "『君の名は。』で物語の重要な要素となる現象はどれ？",
+    "choices": ["タイムリープ", "入れ替わり", "異世界転生", "宇宙移動"],
+    "answer": 1,
+    "difficulty": "easy"
+  }
+]

@@ -1,0 +1,338 @@
+[
+  {
+    "question": "日本で一番面積が大きい都道府県はどこ？",
+    "choices": ["北海道", "岩手県", "長野県", "福島県"],
+    "answer": 0,
+    "difficulty": "easy"
+  },
+  {
+    "question": "日本の首都はどこ？",
+    "choices": ["大阪", "京都", "東京", "名古屋"],
+    "answer": 2,
+    "difficulty": "easy"
+  },
+  {
+    "question": "世界で一番面積が大きい大陸はどれ？",
+    "choices": [
+      "アフリカ大陸",
+      "ユーラシア大陸",
+      "北アメリカ大陸",
+      "南アメリカ大陸"
+    ],
+    "answer": 1,
+    "difficulty": "easy"
+  },
+  {
+    "question": "日本列島を北から南へ流れている暖流はどれ？",
+    "choices": ["親潮", "黒潮", "リマン海流", "寒流"],
+    "answer": 1,
+    "difficulty": "easy"
+  },
+  {
+    "question": "世界で一番長い川はどれ？",
+    "choices": ["ナイル川", "アマゾン川", "長江", "ミシシッピ川"],
+    "answer": 0,
+    "difficulty": "easy"
+  },
+  {
+    "question": "赤道が通っている大陸はどれ？",
+    "choices": ["ヨーロッパ", "アフリカ", "オーストラリア", "南極"],
+    "answer": 1,
+    "difficulty": "easy"
+  },
+  {
+    "question": "日本で一番高い山はどれ？",
+    "choices": ["北岳", "槍ヶ岳", "奥穂高岳", "富士山"],
+    "answer": 3,
+    "difficulty": "easy"
+  },
+  {
+    "question": "世界で一番人口が多い国はどこ？",
+    "choices": ["中国", "インド", "アメリカ", "ロシア"],
+    "answer": 1,
+    "difficulty": "easy"
+  },
+  {
+    "question": "日本が位置している気候帯はどれ？",
+    "choices": ["熱帯", "乾燥帯", "温帯", "寒帯"],
+    "answer": 2,
+    "difficulty": "easy"
+  },
+  {
+    "question": "ヨーロッパとアジアの境界とされる山脈はどれ？",
+    "choices": ["アルプス山脈", "ヒマラヤ山脈", "ウラル山脈", "アンデス山脈"],
+    "answer": 2,
+    "difficulty": "easy"
+  },
+  {
+    "question": "日本で一番長い川はどれ？",
+    "choices": ["利根川", "信濃川", "木曽川", "淀川"],
+    "answer": 1,
+    "difficulty": "easy"
+  },
+  {
+    "question": "日本で一番面積が小さい都道府県はどこ？",
+    "choices": ["大阪府", "香川県", "沖縄県", "佐賀県"],
+    "answer": 1,
+    "difficulty": "easy"
+  },
+  {
+    "question": "世界で一番面積が小さい国はどこ？",
+    "choices": ["モナコ", "サンマリノ", "バチカン市国", "ルクセンブルク"],
+    "answer": 2,
+    "difficulty": "easy"
+  },
+  {
+    "question": "日本の四大工業地帯に含まれないのはどれ？",
+    "choices": [
+      "京浜工業地帯",
+      "阪神工業地帯",
+      "中京工業地帯",
+      "北九州工業地帯"
+    ],
+    "answer": 3,
+    "difficulty": "easy"
+  },
+  {
+    "question": "世界で一番高い山はどれ？",
+    "choices": ["K2", "エベレスト", "カンチェンジュンガ", "ローツェ"],
+    "answer": 1,
+    "difficulty": "easy"
+  },
+  {
+    "question": "日本が最も多くの島で構成されている理由として正しいものはどれ？",
+    "choices": ["火山活動", "氷河の影響", "地震の影響", "台風の影響"],
+    "answer": 0,
+    "difficulty": "easy"
+  },
+  {
+    "question": "世界三大洋に含まれないものはどれ？",
+    "choices": ["太平洋", "大西洋", "インド洋", "北極海"],
+    "answer": 3,
+    "difficulty": "easy"
+  },
+  {
+    "question": "赤道の周辺に多く分布する気候帯はどれ？",
+    "choices": ["温帯", "乾燥帯", "寒帯", "熱帯"],
+    "answer": 3,
+    "difficulty": "easy"
+  },
+  {
+    "question": "日本海側の冬に降雪量が多い主な理由はどれ？",
+    "choices": ["黒潮の影響", "季節風の影響", "台風の影響", "梅雨の影響"],
+    "answer": 1,
+    "difficulty": "easy"
+  },
+  {
+    "question": "サハラ砂漠が位置する大陸はどこ？",
+    "choices": ["アジア", "アフリカ", "オーストラリア", "南アメリカ"],
+    "answer": 1,
+    "difficulty": "easy"
+  },
+  {
+    "question": "日本で最も人口が多い都道府県はどこ？",
+    "choices": ["神奈川県", "大阪府", "東京都", "愛知県"],
+    "answer": 2,
+    "difficulty": "easy"
+  },
+  {
+    "question": "世界で最も人口が少ない大陸はどれ？",
+    "choices": [
+      "南極大陸",
+      "オーストラリア大陸",
+      "南アメリカ大陸",
+      "ヨーロッパ大陸"
+    ],
+    "answer": 0,
+    "difficulty": "easy"
+  },
+  {
+    "question": "日本の標準時が定められている都市はどこ？",
+    "choices": ["東京", "京都", "兵庫県明石市", "大阪"],
+    "answer": 2,
+    "difficulty": "easy"
+  },
+  {
+    "question": "ヨーロッパで最も長い川はどれ？",
+    "choices": ["ドナウ川", "ライン川", "ボルガ川", "セーヌ川"],
+    "answer": 2,
+    "difficulty": "easy"
+  },
+  {
+    "question": "オーストラリアに多く見られる自然環境はどれ？",
+    "choices": ["熱帯雨林", "砂漠", "氷河", "ツンドラ"],
+    "answer": 1,
+    "difficulty": "easy"
+  },
+  {
+    "question": "日本の中で最も南に位置する都道府県はどこ？",
+    "choices": ["沖縄県", "鹿児島県", "宮崎県", "長崎県"],
+    "answer": 0,
+    "difficulty": "easy"
+  },
+  {
+    "question": "世界の人口が最も集中している地域はどこ？",
+    "choices": ["北アメリカ", "東アジア", "南極", "オセアニア"],
+    "answer": 1,
+    "difficulty": "easy"
+  },
+  {
+    "question": "日本の太平洋側で多く発生する自然災害はどれ？",
+    "choices": ["豪雪", "火山噴火", "台風", "流氷"],
+    "answer": 2,
+    "difficulty": "easy"
+  },
+  {
+    "question": "世界で一番大きな島はどれ？",
+    "choices": [
+      "ニューギニア島",
+      "ボルネオ島",
+      "マダガスカル島",
+      "グリーンランド"
+    ],
+    "answer": 3,
+    "difficulty": "easy"
+  },
+  {
+    "question": "日本の国土の約何割が森林？",
+    "choices": ["約3割", "約5割", "約7割", "約9割"],
+    "answer": 2,
+    "difficulty": "easy"
+  },
+
+  {
+    "question": "日本で一番長い川はどれ？",
+    "choices": ["利根川", "信濃川", "木曽川", "淀川"],
+    "answer": 1,
+    "difficulty": "easy"
+  },
+  {
+    "question": "日本で一番面積が小さい都道府県はどこ？",
+    "choices": ["大阪府", "香川県", "沖縄県", "佐賀県"],
+    "answer": 1,
+    "difficulty": "easy"
+  },
+  {
+    "question": "世界で一番面積が小さい国はどこ？",
+    "choices": ["モナコ", "サンマリノ", "バチカン市国", "ルクセンブルク"],
+    "answer": 2,
+    "difficulty": "easy"
+  },
+  {
+    "question": "日本の四大工業地帯に含まれないのはどれ？",
+    "choices": [
+      "京浜工業地帯",
+      "阪神工業地帯",
+      "中京工業地帯",
+      "北九州工業地帯"
+    ],
+    "answer": 3,
+    "difficulty": "easy"
+  },
+  {
+    "question": "世界で一番高い山はどれ？",
+    "choices": ["K2", "エベレスト", "カンチェンジュンガ", "ローツェ"],
+    "answer": 1,
+    "difficulty": "easy"
+  },
+  {
+    "question": "日本が最も多くの島で構成されている理由として正しいものはどれ？",
+    "choices": ["火山活動", "氷河の影響", "地震の影響", "台風の影響"],
+    "answer": 0,
+    "difficulty": "easy"
+  },
+  {
+    "question": "世界三大洋に含まれないものはどれ？",
+    "choices": ["太平洋", "大西洋", "インド洋", "北極海"],
+    "answer": 3,
+    "difficulty": "easy"
+  },
+  {
+    "question": "赤道の周辺に多く分布する気候帯はどれ？",
+    "choices": ["温帯", "乾燥帯", "寒帯", "熱帯"],
+    "answer": 3,
+    "difficulty": "easy"
+  },
+  {
+    "question": "日本海側の冬に降雪量が多い主な理由はどれ？",
+    "choices": ["黒潮の影響", "季節風の影響", "台風の影響", "梅雨の影響"],
+    "answer": 1,
+    "difficulty": "easy"
+  },
+  {
+    "question": "サハラ砂漠が位置する大陸はどこ？",
+    "choices": ["アジア", "アフリカ", "オーストラリア", "南アメリカ"],
+    "answer": 1,
+    "difficulty": "easy"
+  },
+  {
+    "question": "日本で最も人口が多い都道府県はどこ？",
+    "choices": ["神奈川県", "大阪府", "東京都", "愛知県"],
+    "answer": 2,
+    "difficulty": "easy"
+  },
+  {
+    "question": "世界で最も人口が少ない大陸はどれ？",
+    "choices": [
+      "南極大陸",
+      "オーストラリア大陸",
+      "南アメリカ大陸",
+      "ヨーロッパ大陸"
+    ],
+    "answer": 0,
+    "difficulty": "easy"
+  },
+  {
+    "question": "日本の標準時が定められている都市はどこ？",
+    "choices": ["東京", "京都", "兵庫県明石市", "大阪"],
+    "answer": 2,
+    "difficulty": "easy"
+  },
+  {
+    "question": "ヨーロッパで最も長い川はどれ？",
+    "choices": ["ドナウ川", "ライン川", "ボルガ川", "セーヌ川"],
+    "answer": 2,
+    "difficulty": "easy"
+  },
+  {
+    "question": "オーストラリアに多く見られる自然環境はどれ？",
+    "choices": ["熱帯雨林", "砂漠", "氷河", "ツンドラ"],
+    "answer": 1,
+    "difficulty": "easy"
+  },
+  {
+    "question": "日本の中で最も南に位置する都道府県はどこ？",
+    "choices": ["沖縄県", "鹿児島県", "宮崎県", "長崎県"],
+    "answer": 0,
+    "difficulty": "easy"
+  },
+  {
+    "question": "世界の人口が最も集中している地域はどこ？",
+    "choices": ["北アメリカ", "東アジア", "南極", "オセアニア"],
+    "answer": 1,
+    "difficulty": "easy"
+  },
+  {
+    "question": "日本の太平洋側で多く発生する自然災害はどれ？",
+    "choices": ["豪雪", "火山噴火", "台風", "流氷"],
+    "answer": 2,
+    "difficulty": "easy"
+  },
+  {
+    "question": "世界で一番大きな島はどれ？",
+    "choices": [
+      "ニューギニア島",
+      "ボルネオ島",
+      "マダガスカル島",
+      "グリーンランド"
+    ],
+    "answer": 3,
+    "difficulty": "easy"
+  },
+  {
+    "question": "日本の国土の約何割が森林？",
+    "choices": ["約3割", "約5割", "約7割", "約9割"],
+    "answer": 2,
+    "difficulty": "easy"
+  }
+]

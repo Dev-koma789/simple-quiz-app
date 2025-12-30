@@ -1,0 +1,187 @@
+[
+  {
+    "question": "戦国時代に最初に「天下布武」を掲げた人物は誰？",
+    "choices": ["織田信長", "豊臣秀吉", "徳川家康", "上杉謙信"],
+    "answer": 0,
+    "difficulty": "easy"
+  },
+  {
+    "question": "江戸幕府を開いた人物は誰？",
+    "choices": ["足利義満", "徳川家康", "織田信長", "豊臣秀吉"],
+    "answer": 1,
+    "difficulty": "easy"
+  },
+  {
+    "question": "日本で最初に作られたとされる憲法はどれ？",
+    "choices": ["大日本帝国憲法", "日本国憲法", "十七条の憲法", "律令"],
+    "answer": 2,
+    "difficulty": "easy"
+  },
+  {
+    "question": "鎌倉幕府を開いた人物は誰？",
+    "choices": ["源頼朝", "源義経", "北条政子", "平清盛"],
+    "answer": 0,
+    "difficulty": "easy"
+  },
+  {
+    "question": "大化の改新が行われたのは何年？",
+    "choices": ["645年", "701年", "794年", "1185年"],
+    "answer": 0,
+    "difficulty": "easy"
+  },
+  {
+    "question": "平安京に都が移されたのはどの時代？",
+    "choices": ["飛鳥時代", "奈良時代", "平安時代", "鎌倉時代"],
+    "answer": 2,
+    "difficulty": "easy"
+  },
+  {
+    "question": "室町幕府を開いた人物は誰？",
+    "choices": ["足利尊氏", "足利義満", "足利義政", "源頼朝"],
+    "answer": 0,
+    "difficulty": "easy"
+  },
+  {
+    "question": "明治時代の初めに行われた大きな政治改革を何という？",
+    "choices": ["大政奉還", "廃藩置県", "文明開化", "富国強兵"],
+    "answer": 1,
+    "difficulty": "easy"
+  },
+  {
+    "question": "江戸時代の身分制度で最も身分が高かったのはどれ？",
+    "choices": ["農民", "町人", "武士", "商人"],
+    "answer": 2,
+    "difficulty": "easy"
+  },
+  {
+    "question": "日本が太平洋戦争に突入したきっかけとなった出来事はどれ？",
+    "choices": ["満州事変", "日中戦争", "真珠湾攻撃", "日露戦争"],
+    "answer": 2,
+    "difficulty": "easy"
+  },
+  {
+    "question": "日本最古の歴史書とされているのはどれ？",
+    "choices": ["日本書紀", "古事記", "万葉集", "風土記"],
+    "answer": 1,
+    "difficulty": "easy"
+  },
+  {
+    "question": "聖徳太子が定めたとされる政治の決まりはどれ？",
+    "choices": ["律令", "冠位十二階", "武家諸法度", "公事方御定書"],
+    "answer": 1,
+    "difficulty": "easy"
+  },
+  {
+    "question": "仏教が日本に伝えられたのはどの時代？",
+    "choices": ["弥生時代", "飛鳥時代", "奈良時代", "平安時代"],
+    "answer": 1,
+    "difficulty": "easy"
+  },
+  {
+    "question": "奈良時代の都はどこ？",
+    "choices": ["平安京", "藤原京", "平城京", "長岡京"],
+    "answer": 2,
+    "difficulty": "easy"
+  },
+  {
+    "question": "遣唐使が送られていたのはどの時代？",
+    "choices": ["飛鳥時代", "奈良時代", "平安時代", "鎌倉時代"],
+    "answer": 2,
+    "difficulty": "easy"
+  },
+  {
+    "question": "源平合戦に勝利した武士の一族はどれ？",
+    "choices": ["平氏", "源氏", "藤原氏", "足利氏"],
+    "answer": 1,
+    "difficulty": "easy"
+  },
+  {
+    "question": "承久の乱で朝廷側の中心人物だったのは誰？",
+    "choices": ["後鳥羽上皇", "源頼朝", "北条時政", "足利尊氏"],
+    "answer": 0,
+    "difficulty": "easy"
+  },
+  {
+    "question": "鎌倉幕府で政治の実権を握っていた役職は何？",
+    "choices": ["将軍", "執権", "関白", "大老"],
+    "answer": 1,
+    "difficulty": "easy"
+  },
+  {
+    "question": "南北朝時代を始めた人物は誰？",
+    "choices": ["後醍醐天皇", "足利尊氏", "楠木正成", "新田義貞"],
+    "answer": 0,
+    "difficulty": "easy"
+  },
+  {
+    "question": "応仁の乱が始まったのは何世紀？",
+    "choices": ["13世紀", "14世紀", "15世紀", "16世紀"],
+    "answer": 2,
+    "difficulty": "easy"
+  },
+  {
+    "question": "戦国時代に鉄砲が日本に伝来した場所はどこ？",
+    "choices": ["種子島", "長崎", "博多", "堺"],
+    "answer": 0,
+    "difficulty": "easy"
+  },
+  {
+    "question": "豊臣秀吉が全国統一をほぼ成し遂げた後に行った政策はどれ？",
+    "choices": ["刀狩", "参勤交代", "鎖国", "武家諸法度"],
+    "answer": 0,
+    "difficulty": "easy"
+  },
+  {
+    "question": "江戸時代に大名が1年おきに江戸と領地を行き来した制度は？",
+    "choices": ["参勤交代", "五人組", "株仲間", "鎖国"],
+    "answer": 0,
+    "difficulty": "easy"
+  },
+  {
+    "question": "江戸幕府が外国との貿易を制限した政策を何という？",
+    "choices": ["開国", "鎖国", "攘夷", "富国強兵"],
+    "answer": 1,
+    "difficulty": "easy"
+  },
+  {
+    "question": "黒船を率いて来航したアメリカの人物は誰？",
+    "choices": ["ペリー", "リンカーン", "ワシントン", "グラント"],
+    "answer": 0,
+    "difficulty": "easy"
+  },
+  {
+    "question": "明治政府が行った土地制度改革は何と呼ばれる？",
+    "choices": ["地租改正", "廃藩置県", "文明開化", "富国強兵"],
+    "answer": 0,
+    "difficulty": "easy"
+  },
+  {
+    "question": "日清戦争が起こったのは何世紀？",
+    "choices": ["18世紀", "19世紀", "20世紀", "21世紀"],
+    "answer": 1,
+    "difficulty": "easy"
+  },
+  {
+    "question": "関東大震災が発生したのは何年？",
+    "choices": ["1918年", "1923年", "1931年", "1945年"],
+    "answer": 1,
+    "difficulty": "easy"
+  },
+  {
+    "question": "日本が第二次世界大戦で降伏した日はいつ？",
+    "choices": [
+      "1945年8月6日",
+      "1945年8月9日",
+      "1945年8月15日",
+      "1945年9月2日"
+    ],
+    "answer": 2,
+    "difficulty": "easy"
+  },
+  {
+    "question": "戦後、日本が平和国家としての道を定めた法律はどれ？",
+    "choices": ["大日本帝国憲法", "日本国憲法", "教育基本法", "民法"],
+    "answer": 1,
+    "difficulty": "easy"
+  }
+]

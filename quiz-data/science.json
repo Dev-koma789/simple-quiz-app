@@ -1,0 +1,202 @@
+[
+  {
+    "question": "水が0℃で変化する状態はどれ？",
+    "choices": ["蒸発", "凝固", "沸騰", "昇華"],
+    "answer": 1,
+    "difficulty": "easy"
+  },
+  {
+    "question": "植物が光を使って栄養を作るはたらきを何という？",
+    "choices": ["呼吸", "蒸散", "光合成", "分解"],
+    "answer": 2,
+    "difficulty": "easy"
+  },
+  {
+    "question": "地球が太陽の周りを回る運動を何という？",
+    "choices": ["自転", "公転", "回転", "循環"],
+    "answer": 1,
+    "difficulty": "easy"
+  },
+  {
+    "question": "人間の血液の中で、酸素を運ぶ役割を持つものはどれ？",
+    "choices": ["白血球", "血小板", "赤血球", "血しょう"],
+    "answer": 2,
+    "difficulty": "easy"
+  },
+  {
+    "question": "雷は主にどのような現象によって起こる？",
+    "choices": ["熱の発生", "風の流れ", "電気の放電", "気圧の変化"],
+    "answer": 2,
+    "difficulty": "easy"
+  },
+  {
+    "question": "太陽系で一番大きな惑星はどれ？",
+    "choices": ["地球", "火星", "木星", "土星"],
+    "answer": 2,
+    "difficulty": "easy"
+  },
+  {
+    "question": "音は何が振動することで伝わる？",
+    "choices": ["光", "空気", "水", "磁力"],
+    "answer": 1,
+    "difficulty": "easy"
+  },
+  {
+    "question": "磁石のN極とS極を近づけたときのはたらきはどれ？",
+    "choices": ["反発する", "くっつく", "回転する", "消える"],
+    "answer": 1,
+    "difficulty": "easy"
+  },
+  {
+    "question": "水に食塩を溶かしたときにできるものは何？",
+    "choices": ["化合物", "混合物", "元素", "結晶"],
+    "answer": 1,
+    "difficulty": "easy"
+  },
+  {
+    "question": "地震のとき、最初に伝わる揺れを何という？",
+    "choices": ["S波", "P波", "L波", "表面波"],
+    "answer": 1,
+    "difficulty": "easy"
+  },
+  {
+    "question": "植物の根の主な役割はどれ？",
+    "choices": [
+      "光合成を行う",
+      "水や養分を吸収する",
+      "花を咲かせる",
+      "種を作る"
+    ],
+    "answer": 1,
+    "difficulty": "easy"
+  },
+  {
+    "question": "空気中で最も多く含まれている気体はどれ？",
+    "choices": ["酸素", "二酸化炭素", "窒素", "アルゴン"],
+    "answer": 2,
+    "difficulty": "easy"
+  },
+  {
+    "question": "月が地球の周りを1周するのにかかる時間は約どれくらい？",
+    "choices": ["約1日", "約7日", "約1か月", "約1年"],
+    "answer": 2,
+    "difficulty": "easy"
+  },
+  {
+    "question": "水が100℃で沸騰するのはどの条件下？",
+    "choices": ["0気圧", "0.5気圧", "1気圧", "2気圧"],
+    "answer": 2,
+    "difficulty": "easy"
+  },
+  {
+    "question": "人間の体で食べ物を消化・吸収する主な器官はどれ？",
+    "choices": ["胃", "腸", "肝臓", "すい臓"],
+    "answer": 1,
+    "difficulty": "easy"
+  },
+  {
+    "question": "電池で、電気が流れ出すほうの極はどれ？",
+    "choices": ["＋極", "−極", "どちらも同じ", "電池による"],
+    "answer": 1,
+    "difficulty": "easy"
+  },
+  {
+    "question": "太陽は主に何からできている？",
+    "choices": ["岩石", "水", "水素とヘリウム", "酸素"],
+    "answer": 2,
+    "difficulty": "easy"
+  },
+  {
+    "question": "昆虫の体は大きく分けていくつの部分からできている？",
+    "choices": ["2つ", "3つ", "4つ", "5つ"],
+    "answer": 1,
+    "difficulty": "easy"
+  },
+  {
+    "question": "雲ができる主な理由はどれ？",
+    "choices": [
+      "水蒸気が冷えて水滴になる",
+      "空気が温まる",
+      "風が止まる",
+      "太陽が沈む"
+    ],
+    "answer": 0,
+    "difficulty": "easy"
+  },
+  {
+    "question": "地球の内部で最も中心にある部分はどれ？",
+    "choices": ["地殻", "マントル", "外核", "内核"],
+    "answer": 3,
+    "difficulty": "easy"
+  },
+  {
+    "question": "植物が成長するために必要な光のエネルギー源はどれ？",
+    "choices": ["月", "星", "太陽", "電気"],
+    "answer": 2,
+    "difficulty": "easy"
+  },
+  {
+    "question": "音が大きいほど何が大きくなる？",
+    "choices": ["速さ", "高さ", "振動の大きさ", "波の数"],
+    "answer": 2,
+    "difficulty": "easy"
+  },
+  {
+    "question": "金属がさびる主な原因はどれ？",
+    "choices": ["光", "水と酸素", "熱", "二酸化炭素"],
+    "answer": 1,
+    "difficulty": "easy"
+  },
+  {
+    "question": "地層は一般的にどのように重なっている？",
+    "choices": [
+      "新しいものが下",
+      "古いものが上",
+      "新しいものが上",
+      "順番は決まっていない"
+    ],
+    "answer": 2,
+    "difficulty": "easy"
+  },
+  {
+    "question": "電気回路でスイッチの役割はどれ？",
+    "choices": [
+      "電気を作る",
+      "電気をためる",
+      "電気の流れを切り替える",
+      "電気を強くする"
+    ],
+    "answer": 2,
+    "difficulty": "easy"
+  },
+  {
+    "question": "人間が息を吸うときに取り込む気体はどれ？",
+    "choices": ["二酸化炭素", "水蒸気", "酸素", "窒素"],
+    "answer": 2,
+    "difficulty": "easy"
+  },
+  {
+    "question": "水溶液が酸性かアルカリ性かを調べるのに使うものはどれ？",
+    "choices": ["温度計", "リトマス紙", "顕微鏡", "はかり"],
+    "answer": 1,
+    "difficulty": "easy"
+  },
+  {
+    "question": "火山から流れ出る高温の液体を何という？",
+    "choices": ["マグマ", "溶岩", "火山灰", "噴石"],
+    "answer": 1,
+    "difficulty": "easy"
+  },
+  {
+    "question": "水に溶けにくい物質はどれ？",
+    "choices": ["砂糖", "食塩", "アルコール", "砂"],
+    "answer": 3,
+    "difficulty": "easy"
+  },
+  {
+    "question": "昼と夜ができる原因はどれ？",
+    "choices": ["地球の公転", "月の動き", "地球の自転", "太陽の移動"],
+    "answer": 2,
+    "difficulty": "easy"
+  }
+]

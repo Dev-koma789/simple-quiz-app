@@ -1,0 +1,303 @@
+@charset "utf-8";
+
+/* ===== 全体 ===== */
+body {
+  /* 柔らかいグラデーションで深みを出す */
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: "M PLUS Rounded 1c", sans-serif;
+}
+
+.quiz-container {
+  width: 600px;
+  margin: 40px auto;
+  text-align: center;
+  position: relative;
+  background: #fff;
+  border-radius: 16px;
+  padding: 24px;
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.15);
+}
+
+/* ===== 進捗 ===== */
+.quiz-progress {
+  display: inline-block;
+  background: #777;
+  color: #fff;
+  padding: 6px 14px;
+  border-radius: 6px;
+  font-size: 14px;
+  margin-bottom: 16px;
+}
+
+/* ===== タイトル ===== */
+.quiz-title {
+  margin: 8px 0;
+  font-size: 28px;
+}
+
+/* ===== 問題番号 ===== */
+.quiz-number {
+  margin: 12px 0;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+/* ===== 残り時間（右上の円） ===== */
+.time-circle {
+  position: absolute;
+  top: 16px;
+  right: 16px;
+
+  width: 64px;
+  height: 64px;
+  border-radius: 50%;
+
+  background: #dc2626; /* 赤 */
+  color: #fff;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  font-size: 24px;
+  font-weight: bold;
+  border: 4px solid #fff;
+  box-shadow: 0 0 15px rgba(220, 38, 38, 0.5);
+  /* 鼓動のようなアニメーションを追加 */
+  animation: pulse 1s infinite alternate;
+}
+
+@keyframes pulse {
+  from {
+    transform: scale(1);
+  }
+  to {
+    transform: scale(1.1);
+    box-shadow: 0 0 25px rgba(220, 38, 38, 0.8);
+  }
+}
+
+/* ===== 問題文 ===== */
+.quiz-question {
+  border: 2px solid #333;
+  border-radius: 10px;
+  padding: 16px;
+  font-weight: bold;
+  margin-bottom: 24px;
+  font-size: 20px;
+  line-height: 1.6;
+  background: #fafafa;
+}
+
+/* ===== 選択肢 ===== */
+.quiz-choices {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 16px;
+}
+
+.choice {
+  border-radius: 10px;
+  padding: 14px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: transform 0.15s ease, background 0.15s ease;
+  border: none;
+  background: #eee;
+  box-shadow: 0 6px 0 #bbb; /* 下側の厚み */
+  position: relative;
+  transition: all 0.1s;
+}
+
+.choice:hover {
+  background: #fdfdfd;
+  transform: translateY(2px);
+  box-shadow: 0 4px 0 #bbb;
+}
+
+.choice:active {
+  transform: translateY(6px); /* 押し込んだ時 */
+  box-shadow: none;
+}
+
+/* 正解のボタン（緑色） */
+.choice.correct-answer {
+  background: linear-gradient(135deg, #4ade80, #22c55e) !important;
+  color: white !important;
+  box-shadow: 0 6px 0 #166534 !important;
+  border: none;
+}
+
+/* 不正解のボタン（赤色） */
+.choice.wrong-answer {
+  background: linear-gradient(135deg, #f87171, #ef4444) !important;
+  color: white !important;
+  box-shadow: 0 6px 0 #991b1b !important;
+  border: none;
+}
+
+/* ===== 正誤表示 ===== */
+.judge {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 160px;
+  font-weight: bold;
+  display: none; /* ← JSで表示 */
+  pointer-events: none;
+  animation: pop 0.4s ease;
+}
+
+/* style.css の修正 */
+
+@keyframes pop {
+  0% {
+    /* 常に translate(-50%, -50%) を含めることで中心を維持します */
+    transform: translate(-50%, -50%) scale(0.5);
+    opacity: 0;
+  }
+  100% {
+    /* 100%のときも translate(-50%, -50%) をしっかり書きます */
+    transform: translate(-50%, -50%) scale(1);
+    opacity: 1;
+  }
+}
+
+.category-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); /* 3列 */
+  gap: 16px;
+  margin-top: 24px;
+  width: 100%;
+}
+
+#category-screen button {
+  all: unset;
+  cursor: pointer;
+
+  background: linear-gradient(135deg, #3b82f6, #2563eb);
+  color: #fff;
+
+  padding: 20px 0;
+  text-align: center;
+  font-size: 18px;
+  font-weight: bold;
+
+  border-radius: 14px;
+  box-shadow: 0 8px 0 #1e40af;
+
+  transition: transform 0.1s ease, box-shadow 0.1s ease;
+}
+
+#category-screen button:active {
+  transform: translateY(6px);
+  box-shadow: 0 2px 0 #1e40af;
+}
+
+#category-screen button:hover {
+  filter: brightness(1.1);
+}
+
+#category-screen button[data-category="history"] {
+  background: linear-gradient(135deg, #f97316, #ea580c);
+  box-shadow: 0 8px 0 #c2410c;
+}
+
+#category-screen button[data-category="science"] {
+  background: linear-gradient(135deg, #22c55e, #16a34a);
+  box-shadow: 0 8px 0 #166534;
+}
+
+#category-screen button[data-category="geography"] {
+  background: linear-gradient(135deg, #06b6d4, #0891b2);
+  box-shadow: 0 8px 0 #155e75;
+}
+
+#category-screen button[data-category="trivia"] {
+  background: linear-gradient(135deg, #a855f7, #7e22ce);
+  box-shadow: 0 8px 0 #581c87;
+}
+
+#category-screen button[data-category="manga"] {
+  background: linear-gradient(135deg, #ec4899, #be185d);
+  box-shadow: 0 8px 0 #9d174d;
+}
+
+#category-screen button[data-category="anime"] {
+  background: linear-gradient(135deg, #facc15, #eab308);
+  box-shadow: 0 8px 0 #a16207;
+}
+
+.judge.correct {
+  color: red;
+}
+
+.judge.wrong {
+  color: blue;
+}
+
+/* 結果画面のテキスト */
+#result-screen h2 {
+  font-size: 32px;
+  color: #333;
+  margin-bottom: 10px;
+}
+
+#result-score {
+  font-size: 40px;
+  font-weight: bold;
+  color: #f59e0b; /* ゴールドっぽいオレンジ */
+  text-shadow: 2px 2px 0px #d97706;
+  margin: 20px 0;
+  display: block;
+  animation: bounceIn 0.8s cubic-bezier(0.68, -0.55, 0.27, 1.55);
+}
+
+/* スコア表示のアニメーション */
+@keyframes bounceIn {
+  0% {
+    transform: scale(0.3);
+    opacity: 0;
+  }
+  50% {
+    transform: scale(1.1);
+  }
+  70% {
+    transform: scale(0.9);
+  }
+  100% {
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+
+/* 「カテゴリ選択に戻る」ボタンの装飾 */
+#back-button {
+  all: unset;
+  cursor: pointer;
+  background: #475569; /* 落ち着いたネイビーグレー */
+  color: #fff;
+  padding: 12px 24px;
+  border-radius: 50px; /* 丸みのあるデザイン */
+  font-size: 18px;
+  font-weight: bold;
+  box-shadow: 0 4px 0 #1e293b;
+  transition: all 0.2s;
+  margin-top: 20px;
+}
+
+#back-button:hover {
+  background: #64748b;
+  transform: translateY(-2px);
+  box-shadow: 0 6px 0 #1e293b;
+}
+
+#back-button:active {
+  transform: translateY(4px);
+  box-shadow: 0 0px 0 #1e293b;
+}

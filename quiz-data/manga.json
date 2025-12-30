@@ -1,0 +1,182 @@
+[
+  {
+    "question": "『ONE PIECE』の主人公の名前は？",
+    "choices": ["ナルト", "ルフィ", "悟空", "一護"],
+    "answer": 1,
+    "difficulty": "easy"
+  },
+  {
+    "question": "『ドラゴンボール』で悟空が使う必殺技はどれ？",
+    "choices": ["螺旋丸", "かめはめ波", "霊丸", "月牙天衝"],
+    "answer": 1,
+    "difficulty": "easy"
+  },
+  {
+    "question": "『鬼滅の刃』で主人公・竈門炭治郎が使う呼吸は？",
+    "choices": ["雷の呼吸", "水の呼吸", "炎の呼吸", "風の呼吸"],
+    "answer": 1,
+    "difficulty": "easy"
+  },
+  {
+    "question": "『名探偵コナン』でコナンの正体は誰？",
+    "choices": ["工藤新一", "毛利小五郎", "服部平次", "怪盗キッド"],
+    "answer": 0,
+    "difficulty": "easy"
+  },
+  {
+    "question": "『NARUTO』でナルトが所属している里はどこ？",
+    "choices": ["砂隠れの里", "霧隠れの里", "木ノ葉隠れの里", "岩隠れの里"],
+    "answer": 2,
+    "difficulty": "easy"
+  },
+  {
+    "question": "『進撃の巨人』で人類を脅かす存在は何？",
+    "choices": ["怪獣", "鬼", "巨人", "悪魔"],
+    "answer": 2,
+    "difficulty": "easy"
+  },
+  {
+    "question": "『SLAM DUNK』の舞台となる高校はどこ？",
+    "choices": ["陵南高校", "海南大附属高校", "湘北高校", "翔陽高校"],
+    "answer": 2,
+    "difficulty": "easy"
+  },
+  {
+    "question": "『鋼の錬金術師』で禁じられている錬金術はどれ？",
+    "choices": ["金の錬成", "武器錬成", "人体錬成", "火の錬成"],
+    "answer": 2,
+    "difficulty": "easy"
+  },
+  {
+    "question": "『BLEACH』で主人公・黒崎一護の職業（力）はどれ？",
+    "choices": ["忍者", "死神", "錬金術師", "ハンター"],
+    "answer": 1,
+    "difficulty": "easy"
+  },
+  {
+    "question": "『こちら葛飾区亀有公園前派出所』の主人公の名前は？",
+    "choices": ["中川圭一", "両津勘吉", "大原部長", "寺井洋一"],
+    "answer": 1,
+    "difficulty": "easy"
+  },
+  {
+    "question": "『僕のヒーローアカデミア』で主人公・緑谷出久の個性は何？",
+    "choices": ["ワン・フォー・オール", "オール・フォー・ワン", "爆破", "氷結"],
+    "answer": 0,
+    "difficulty": "easy"
+  },
+  {
+    "question": "『呪術廻戦』で主人公・虎杖悠仁が宿している呪いは誰？",
+    "choices": ["五条悟", "夏油傑", "両面宿儺", "伏黒恵"],
+    "answer": 2,
+    "difficulty": "easy"
+  },
+  {
+    "question": "『ハンター×ハンター』で主人公ゴンの父親は誰？",
+    "choices": ["ジン", "レオリオ", "クラピカ", "キルア"],
+    "answer": 0,
+    "difficulty": "easy"
+  },
+  {
+    "question": "『銀魂』の舞台となっている都市はどこ？",
+    "choices": ["京都", "江戸", "大阪", "長崎"],
+    "answer": 1,
+    "difficulty": "easy"
+  },
+  {
+    "question": "『東京喰種（トーキョーグール）』で主人公・金木研が変化した存在は？",
+    "choices": ["吸血鬼", "喰種", "悪魔", "鬼"],
+    "answer": 1,
+    "difficulty": "easy"
+  },
+  {
+    "question": "『ジョジョの奇妙な冒険』で能力の名称として使われているものはどれ？",
+    "choices": ["念", "個性", "スタンド", "気"],
+    "answer": 2,
+    "difficulty": "easy"
+  },
+  {
+    "question": "『チェンソーマン』で主人公デンジが変身するものは何？",
+    "choices": ["悪魔", "チェンソーの悪魔", "魔人", "人造人間"],
+    "answer": 1,
+    "difficulty": "easy"
+  },
+  {
+    "question": "『デスノート』でノートに名前を書くとどうなる？",
+    "choices": ["記憶を失う", "死ぬ", "操られる", "眠くなる"],
+    "answer": 1,
+    "difficulty": "easy"
+  },
+  {
+    "question": "『鋼の錬金術師』でエドワード・エルリックの通称は何？",
+    "choices": ["炎の錬金術師", "氷の錬金術師", "鋼の錬金術師", "銀の錬金術師"],
+    "answer": 2,
+    "difficulty": "easy"
+  },
+  {
+    "question": "『約束のネバーランド』で子供たちが暮らしていた施設の名前は？",
+    "choices": ["グレイス＝フィールド", "シェルター", "孤児院", "エデン"],
+    "answer": 0,
+    "difficulty": "easy"
+  },
+  {
+    "question": "『北斗の拳』で主人公ケンシロウが使う拳法はどれ？",
+    "choices": ["南斗聖拳", "北斗神拳", "無想転生", "剣術"],
+    "answer": 1,
+    "difficulty": "easy"
+  },
+  {
+    "question": "『るろうに剣心』の主人公が使う剣の種類はどれ？",
+    "choices": ["日本刀", "逆刃刀", "木刀", "西洋剣"],
+    "answer": 1,
+    "difficulty": "easy"
+  },
+  {
+    "question": "『ドラえもん』でドラえもんが来た未来は何世紀？",
+    "choices": ["21世紀", "22世紀", "23世紀", "24世紀"],
+    "answer": 1,
+    "difficulty": "easy"
+  },
+  {
+    "question": "『ワンパンマン』で主人公サイタマの特徴はどれ？",
+    "choices": ["剣が強い", "魔法が使える", "一撃で敵を倒す", "巨大化する"],
+    "answer": 2,
+    "difficulty": "easy"
+  },
+  {
+    "question": "『進撃の巨人』で主人公エレンが持つ力は何？",
+    "choices": ["超能力", "巨人化", "錬金術", "呪術"],
+    "answer": 1,
+    "difficulty": "easy"
+  },
+  {
+    "question": "『キャプテン翼』の主人公・大空翼の得意競技はどれ？",
+    "choices": ["野球", "サッカー", "バスケットボール", "テニス"],
+    "answer": 1,
+    "difficulty": "easy"
+  },
+  {
+    "question": "『幽☆遊☆白書』で主人公・浦飯幽助の職業はどれ？",
+    "choices": ["霊界探偵", "忍者", "死神", "錬金術師"],
+    "answer": 0,
+    "difficulty": "easy"
+  },
+  {
+    "question": "『ブラッククローバー』で主人公アスタが目指しているものは何？",
+    "choices": ["騎士団長", "魔法帝", "王様", "英雄"],
+    "answer": 1,
+    "difficulty": "easy"
+  },
+  {
+    "question": "『はじめの一歩』の主人公・幕之内一歩の競技はどれ？",
+    "choices": ["空手", "柔道", "ボクシング", "レスリング"],
+    "answer": 2,
+    "difficulty": "easy"
+  },
+  {
+    "question": "『Dr.STONE』で人類が石化した原因は何？",
+    "choices": ["ウイルス", "隕石", "謎の光", "呪い"],
+    "answer": 2,
+    "difficulty": "easy"
+  }
+]

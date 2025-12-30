@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8" />
+    <title>日本史クイズ</title>
+    <link rel="stylesheet" href="style.css" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c:wght@700&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <main class="quiz-container">
+      <!-- カテゴリ選択画面 -->
+      <div id="category-screen">
+        <h1>クイズアプリ</h1>
+        <h2>カテゴリを選んでください</h2>
+
+        <div class="category-grid">
+          <button data-category="history">日本史</button>
+          <button data-category="science">理科</button>
+          <button data-category="geography">地理</button>
+
+          <button data-category="trivia">雑学</button>
+          <button data-category="manga">漫画</button>
+          <button data-category="anime">アニメ</button>
+        </div>
+      </div>
+
+      <!-- クイズ画面 -->
+      <div id="quiz-screen" style="display: none">
+        <!-- ここに今まで作ったクイズUIを全部移動 -->
+        <!-- 進捗 -->
+        <div class="quiz-progress"></div>
+
+        <!-- タイトル -->
+        <h1 class="quiz-title"></h1>
+
+        <!-- 問題番号 -->
+        <div class="quiz-number"></div>
+
+        <!-- 残り時間（右上・円表示） -->
+        <div class="time-circle">
+          <span id="time">10</span>
+        </div>
+
+        <!-- 問題文 -->
+        <div class="quiz-question"></div>
+
+        <!-- 選択肢 -->
+        <div class="quiz-choices">
+          <button class="choice"></button>
+          <button class="choice"></button>
+          <button class="choice"></button>
+          <button class="choice"></button>
+        </div>
+
+        <!-- 正誤表示（初期は非表示） -->
+        <div class="judge correct">〇</div>
+        <div class="judge wrong">×</div>
+      </div>
+
+      <!-- 結果画面 -->
+      <div id="result-screen" style="display: none">
+        <h2>結果</h2>
+        <div
+          id="result-message"
+          style="font-size: 18px; color: #666; margin-bottom: 5px"
+        ></div>
+        <p id="result-score" style="font-size: 40px; font-weight: bold"></p>
+
+        <button id="back-button">カテゴリ選択に戻る</button>
+      </div>
+    </main>
+
+    <script src="main.js"></script>
+  </body>
+</html>
